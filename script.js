@@ -26,7 +26,7 @@ for (let i = 0; i < ages.length; i++) {
 }
 
 // question 3
-let prices = [2, 2, 2, 2, 21, 21, 21, 21, 12, 21, 55, 55, 55, 55, 100];
+let prices = [];
 let under20 = 0;
 let twentyTo49 = 0;
 let fiftyPlus = 0;
